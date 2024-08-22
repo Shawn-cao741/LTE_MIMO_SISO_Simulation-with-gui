@@ -1,5 +1,5 @@
 # LTE_MIMO_SISO_Simulation-with-gui
- A simulation for LTE system(done by shaung chaung ming shuo)
+ A simulation for LTE system(done by shaung chuang ming shuo)
 
 # functions
   1)Turbo code and decode 
